@@ -1,0 +1,31 @@
+@relation datatrain111
+
+@attribute time numeric
+@attribute day_of_week {Tuesday,Wednesday}
+@attribute reserve_visitors numeric
+
+@data
+11,Tuesday,2
+12,Tuesday,3
+13,Tuesday,0
+14,Tuesday,4
+15,Tuesday,6
+16,Tuesday,2
+17,Tuesday,7
+18,Tuesday,9
+19,Tuesday,10
+20,Tuesday,15
+21,Tuesday,6
+22,Tuesday,5
+11,Wednesday,4
+12,Wednesday,2
+13,Wednesday,0
+14,Wednesday,0
+15,Wednesday,2
+16,Wednesday,4
+17,Wednesday,4
+18,Wednesday,10
+19,Wednesday,11
+20,Wednesday,12
+21,Wednesday,8
+22,Wednesday,4
